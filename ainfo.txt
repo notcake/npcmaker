@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"        "NPC Maker"
+	"version"     "1.0"
+	"author_name" "!cake"
+	"author_url"  ""
+	"info"        "Lets you make conversational NPCs without knowing any lua."
+	"override"    "0"
+}
